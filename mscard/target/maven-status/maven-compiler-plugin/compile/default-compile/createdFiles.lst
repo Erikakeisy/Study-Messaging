@@ -1,0 +1,11 @@
+com\ms\mscard\mscard\repository\CardRepository.class
+com\ms\mscard\mscard\dto\CardsByCustomerDto.class
+com\ms\mscard\mscard\dto\CardDto.class
+com\ms\mscard\mscard\controller\CardController.class
+com\ms\mscard\mscard\service\CardService.class
+com\ms\mscard\mscard\MscardApplication.class
+com\ms\mscard\mscard\entities\CardFlag.class
+com\ms\mscard\mscard\entities\Card.class
+com\ms\mscard\mscard\service\ClientCardService.class
+com\ms\mscard\mscard\entities\ClientCard.class
+com\ms\mscard\mscard\repository\ClientCardRepository.class

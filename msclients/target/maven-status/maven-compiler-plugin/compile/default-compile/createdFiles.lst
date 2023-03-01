@@ -1,0 +1,6 @@
+com\ms\msclients\msclients\controller\ClientController.class
+com\ms\msclients\msclients\repository\ClientRepository.class
+com\ms\msclients\msclients\dto\ClientDto.class
+com\ms\msclients\msclients\MsclientsApplication.class
+com\ms\msclients\msclients\service\ClientService.class
+com\ms\msclients\msclients\entity\Client.class
